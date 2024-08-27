@@ -1,0 +1,20 @@
+// JavaScript is a programming language used to make 
+// web pages interactive and dynamic. 
+// It powers things like animations, form validations, 
+// and real-time updates without reloading the page. 
+// It’s essential for modern web development and 
+// runs both in browsers and on servers (via Node.js).
+
+
+
+// Javascript एक programing language है 
+// जिसका उपयोग webpage को interactive और dynamic बनाने के
+// लिए किया जाता है। यह animation और form validation 
+// रियल-टाइम अपडेट जैसी चीजों को संभव बनाती है। 
+// यह modern web browsers के लिए आवश्यक है और 
+// browsers में और servers पर (Node.js के माध्यम से) चलती है।
+
+
+
+
+

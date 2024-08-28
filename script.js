@@ -134,34 +134,48 @@
 // const person1 = new Person();
 // console.log(person1);
 
-const str = "My name is khan and I am not a terrorist";
-const strArr = str.toLowerCase(str).split(" ").join("").split("");
+// const str = "My name is khan and I am not a terrorist";
+// const strArr = str.toLowerCase(str).split(" ").join("").split("");
 
-const ob = {};
-console.log(strArr);
-strArr.forEach((e) => {
-  if (ob[e]) {
-    ob[e] = ob[e] + 1;
-  } else {
-    ob[e] = 1;
-  }
-});
-console.log(ob);
+// const ob = {};
+// console.log(strArr);
+// strArr.forEach((e) => {
+//   if (ob[e]) {
+//     ob[e] = ob[e] + 1;
+//   } else {
+//     ob[e] = 1;
+//   }
+// });
+// console.log(ob);
 
-let count = 0;
-let char;
+// let count = 0;
+// let char;
 
-for (let e in ob) {
-  console.log(e);
-  if (ob[e] > count) {
-    count = ob[e];
-    char = e;
-  }
-}
-console.log(count);
-console.log(char);
+// for (let e in ob) {
+//   console.log(e);
+//   if (ob[e] > count) {
+//     count = ob[e];
+//     char = e;
+//   }
+// }
+// console.log(count);
+// console.log(char);
 
-const arr = [123, 1234, 234, 345, 345, 768, 65, 43, 21, 465, 76];
+// const arr = [123, 1234, 234, 345, 345, 768, 65, 43, 21, 465, 76];
 
-console.log(arr.splice(2, 6));
-console.log(arr);
+// console.log(arr.splice(2, 6));
+// console.log(arr);
+// function Person(name) {
+//   this.name = name;
+// }
+
+// const person = new Person("Enayet");
+
+// Person.prototype.abc = function (age) {
+//   console.log(`${this.name} is ${age} year old`);
+// };
+
+// console.log(person);
+// console.log(person.__proto__);
+// console.log(person.abc(23));
+console.log(a);

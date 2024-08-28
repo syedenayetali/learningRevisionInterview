@@ -1,6 +1,13 @@
 const a = 5;
+console.log(a); //output:: 5
 
-console.log(a);
+console.log(b); //output:: Ref error:: Cannot access 'a' before initialization
+const b = 5;
+
+console.log(c); //output:: Ref error:: c is not defined
+
+console.log(d); //output:: Undefined
+var d = 5;
 
 // Yes, both let and const are hoisted, but they behave differently from var.
 

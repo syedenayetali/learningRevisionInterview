@@ -15,3 +15,12 @@ var d = 5;
 // but it is not initialized. This means that while the declaration is moved to the top of the block,
 // the variable is not assigned a value until the execution reaches the actual line of code where it is defined.
 // As a result, if you try to access the variable before its declaration, you'll encounter a ReferenceError.
+
+abc(); // will be hoisted
+function abc() {
+  console.log("Enayet");
+}
+def(); // will be not hoisted :: Referance error
+const def = () => {
+  console.log("Enayet");
+};

@@ -1,0 +1,29 @@
+sementic and asymentic element
+position properties
+    absolute
+    relative
+display property
+    none
+    inline
+    block
+    inline-block
+    flex
+    grid
+    visblity: hidden
+CSS psudo-class and psudo-element
+
+
+SCSS::
+Nested feature
+Operators i.e. "+" i.e. 3px+5px
+Variable $primeryColor: 'blue'
+@mixin abc
+@include abc
+@import (
+    all @mixin in one file _mixin.scss 
+    AND
+    all variables in one file _var.scss
+)
+
+defer
+async

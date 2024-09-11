@@ -178,4 +178,10 @@
 // console.log(person);
 // console.log(person.__proto__);
 // console.log(person.abc(23));
-console.log(a);
+// console.log(a);
+
+// abc();
+
+// const abc = () => {
+//   console.log("Enayet");
+// };

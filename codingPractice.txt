@@ -1,0 +1,15 @@
+Coding Question For JS
+
+Sorting array for stringa nd number
+    arr.sort(a,b=> a-b)
+Largest number in array
+Smallest number in array
+Remove duplicate element and make unique elemented array
+Count of alphabet in a string (sentance)
+Count of highest alphabet repetetion in a string (sentance)
+Splice and slice verrrryyyyy important
+Closure
+for(var i=0;i<5;i++){} //this type of question
+Palendrom string
+Deep copy and shallow copy
+map, filter, reduce, forEach

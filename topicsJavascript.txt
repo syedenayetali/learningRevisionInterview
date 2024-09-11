@@ -1,0 +1,60 @@
+Differece between ES5 and ES6
+    - let and const Declarations
+    - Arrow Functions
+    - Class Syntax
+    - Template Literals
+    - Default Parameters
+    - Destructuring Assignment
+    - Modules
+    - Promises
+
+var, let, const
+this keyword
+    - Method of objects
+    - based on type of function
+Hoisting
+== vs ===
+Type Coercion
+NaN property
+types of data types
+Pass by value and pass by reference
+Function expression vs function declaration vs Constructors function
+Higher Order Function and Callbacks
+call, apply, bind
+IIFE (Immediately Invoked Function Expression)
+Currying
+Scope and its types
+Closure
+Object prototype
+Memoization
+classes and constructors
+class in JavaScript and its four pillars
+DOM (Document Object Model)
+Client-side rendering vs Server-side rendering
+ES6+ Features
+Scope and Closures
+Asynchronous Programming
+DOM Manipulation and Events
+Error Handling
+Deepcopy And Shallowcopy
+
+
+Normal function vs arrow function
+Prototype and inheritance
+Rest and spread operators
+Different methods to create objects
+Promises
+Async and await
+Generator function
+Set and WeakSet
+Map and WeakMap
+Object destructuring
+Temporal dead zone
+JS design patterns
+Deferred in JS
+Bubbling and capturing
+
+
+Security: Awareness of common security vulnerabilities in JavaScript applications, such as Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and how to prevent them.
+Performance Optimization: Techniques for optimizing JavaScript performance, including code minification, reducing DOM manipulation, lazy loading, and caching strategies.
+Browser Compatibility: Understanding differences in JavaScript implementation across different browsers and how to write code that works consistently across them.

@@ -11,7 +11,7 @@ display property
     grid
     visblity: hidden
 CSS psudo-class and psudo-element
-
+child combinator
 
 SCSS::
 Nested feature

@@ -58,3 +58,7 @@ Bubbling and capturing
 Security: Awareness of common security vulnerabilities in JavaScript applications, such as Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and how to prevent them.
 Performance Optimization: Techniques for optimizing JavaScript performance, including code minification, reducing DOM manipulation, lazy loading, and caching strategies.
 Browser Compatibility: Understanding differences in JavaScript implementation across different browsers and how to write code that works consistently across them.
+
+
+syntactic Event in react
+private and public routes

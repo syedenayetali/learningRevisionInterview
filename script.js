@@ -185,3 +185,25 @@
 // const abc = () => {
 //   console.log("Enayet");
 // };
+// console.log(String.prototype);
+
+// function Person(name) {
+//   this.name = name;
+// }
+
+// const person = new Person("Enayet");
+
+// Person.prototype.abc = function (age) {
+//   console.log(`${this.name} is ${age} year old`);
+// };
+
+// console.log(person);
+// console.log(person.__proto__);
+// console.log(person.abc(23));
+
+// document.getElementById("div1").addEventListener("click", () => console.log("button1"));
+// document.getElementById("div2").addEventListener("click", (e) => {
+//   e.stopPropagation();
+//   console.log("button2");
+// });
+// document.getElementById("div3").addEventListener("click", () => console.log("button3"));

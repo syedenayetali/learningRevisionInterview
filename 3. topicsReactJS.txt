@@ -1,0 +1,8 @@
+webpack and lazy loading concept i.e. code splitting
+module publish in npm and then using it 
+microfrontend configurations includes moduleFredration for the open end and import end
+Web workers
+High order component
+Hooks
+Performance
+useMemo and useCallback

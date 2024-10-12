@@ -10,7 +10,7 @@ Differece between ES5 and ES6
 
 var, let, const
 this keyword
-    - Method of objects
+    - Method of objects 
     - based on type of function
 Hoisting
 == vs ===

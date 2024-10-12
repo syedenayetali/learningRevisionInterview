@@ -1,0 +1,3 @@
+// module federation in microfrontend application
+// code splitting configuration in transpiler
+// module publishing

@@ -10,7 +10,23 @@ display property
     flex
     grid
     visblity: hidden
+    
 CSS psudo-class and psudo-element
+    psudo-class
+        - :hover Pseudo Class
+        - :active Pseudo Class
+        - :focus Pseudo Class
+        - :visited Pseudo Class
+        - :not Pseudo Class
+    psudo-element
+        - ::first-line Pseudo Element
+        - ::first-letter Pseudo Element
+        - ::before Pseudo Element
+        - ::after Pseudo Element
+        - ::marker Pseudo Element
+        - ::selection Pseudo Element
+    
+
 child combinator
 
 SCSS::

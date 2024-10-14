@@ -1,7 +1,12 @@
 sementic and asymentic element
+
 position properties
     absolute
     relative
+    fixed
+    sticky
+    static
+
 display property
     none
     inline
@@ -10,7 +15,7 @@ display property
     flex
     grid
     visblity: hidden
-    
+
 CSS psudo-class and psudo-element
     psudo-class
         - :hover Pseudo Class
@@ -30,16 +35,16 @@ CSS psudo-class and psudo-element
 child combinator
 
 SCSS::
-Nested feature
-Operators i.e. "+" i.e. 3px+5px
-Variable $primeryColor: 'blue'
-@mixin abc
-@include abc
-@import (
-    all @mixin in one file _mixin.scss 
-    AND
-    all variables in one file _var.scss
-)
+    - Nested feature
+    - Operators i.e. "+" i.e. 3px+5px
+    - Variable $primeryColor: 'blue'
+    - @mixin abc
+    - @include abc
+    - @import (
+        all @mixin in one file _mixin.scss 
+        AND
+        all variables in one file _var.scss
+      )
 
 defer
 async

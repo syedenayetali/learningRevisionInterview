@@ -3,10 +3,18 @@ Coding Question For JS
 Sorting array for stringa nd number
     arr.sort(a,b=> a-b)
 Largest number in array
+    - sort and last
+
 Smallest number in array
+    - sort and first
+
 Remove duplicate element and make unique elemented array
+    - [...new Set(myArr)]
+    - for loop on main array and use include keyword
+
 Count of alphabet in a string (sentance)
 Count of highest alphabet repetetion in a string (sentance)
+
 Splice and slice verrrryyyyy important
 Closure
 for(var i=0;i<5;i++){} //this type of question

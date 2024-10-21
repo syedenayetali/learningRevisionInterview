@@ -6,3 +6,7 @@ High order component
 Hooks
 Performance
 useMemo and useCallback
+customised hooks
+errorBoundries
+React routers
+Redux

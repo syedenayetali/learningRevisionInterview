@@ -20,4 +20,4 @@ Closure
 for(var i=0;i<5;i++){} //this type of question
 Palendrom string
 Deep copy and shallow copy
-map, filter, reduce, forEach
+map, filter, reduce, forEach, some, every, find, findAll, includes, reverse

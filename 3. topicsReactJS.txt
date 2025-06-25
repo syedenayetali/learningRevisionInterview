@@ -1,12 +1,28 @@
 webpack and lazy loading concept i.e. code splitting
 module publish in npm and then using it 
 microfrontend configurations includes moduleFredration for the open end and import end
-Web workers
+Web workers //high volume data
+Service worker //offline
 High order component
 Hooks
 Performance
+useContext and useReducer
 useMemo and useCallback
 customised hooks
 errorBoundries
 React routers
 Redux
+syntactic Event in react
+private and public routes
+Form Handling
+Dropdowns
+Reconciliation - based on diffing algorithm
+
+//high volume data
+- pagination
+- lazy loading
+- infinite scrolling
+- web workers
+
+** map in scss
+passing argument in css - Styled-component

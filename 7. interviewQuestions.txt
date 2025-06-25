@@ -10,8 +10,3 @@ var obj = {
   },
 };
 obj.method(fn, 1); //5
-
-
-Symantic and nonsymantic
-Performance issues 
-HTTP only cache

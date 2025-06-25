@@ -8,12 +8,14 @@ Differece between ES5 and ES6
     - Modules
     - Promises
 
+defer vs. async
 var, let, const
 this keyword
-    - Method of objects 
+    - Method of objects
     - based on type of function
 Hoisting
 == vs ===
+Falsy values
 Type Coercion
 NaN property
 types of data types
@@ -23,12 +25,14 @@ Higher Order Function and Callbacks
 call, apply, bind
 IIFE (Immediately Invoked Function Expression)
 Currying
+callback hell
+callback hell vs Promises
 Scope and its types
 Closure
 Object prototype
 Memoization
-classes and constructors
-class in JavaScript and its four pillars
+- classes and constructors
+- class in JavaScript and its four pillars
 DOM (Document Object Model)
 Client-side rendering vs Server-side rendering
 ES6+ Features
@@ -37,6 +41,15 @@ Asynchronous Programming
 DOM Manipulation and Events
 Error Handling
 Deepcopy And Shallowcopy
+event deligation (Bubbling and capturing)
+HTML5 - Symantic, Audio, Video, Input type="email", storage, geo, offline support
+WebWorker and ServiceWorker
+PWA - Progressive web app
+Symantic and nonsymantic
+Syntactic event
+Performance issues
+HTTP only cache
+concurrency
 
 
 Normal function vs arrow function
@@ -64,7 +77,3 @@ Security:
       minification,reducing DOM manipulation,lazy loading and caching strategies.
     - Browser Compatibility: Understanding differences in JavaScript implementation across different
       browsers and how to write code that works consistently across them.
-
-
-syntactic Event in react
-private and public routes

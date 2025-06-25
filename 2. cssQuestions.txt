@@ -1,5 +1,3 @@
-sementic and asymentic element
-
 position properties
     absolute
     relative
@@ -23,6 +21,8 @@ CSS psudo-class and psudo-element
         - :focus Pseudo Class
         - :visited Pseudo Class
         - :not Pseudo Class
+        - :nth-child(even)
+        - :nth-child(odd)
     psudo-element
         - ::first-line Pseudo Element
         - ::first-letter Pseudo Element
@@ -34,10 +34,14 @@ CSS psudo-class and psudo-element
 
 child combinator
 
+media queries
+media (min-width: 768px) to (max-width: 1024px)
+Break Points: 576, 768, 1024, 1400
+
 SCSS::
-    - Nested feature
     - Operators i.e. "+" i.e. 3px+5px
     - Variable $primeryColor: 'blue'
+    - Nested feature
     - @mixin abc
     - @include abc
     - @import (
@@ -46,5 +50,12 @@ SCSS::
         all variables in one file _var.scss
       )
 
-defer
-async
+
+| Device Type          | Width Range (px)       | CSS Media Query Example        |
+| -------------------- | ---------------------- | ------------------------------ |
+| 🕹️ Extra Small (XS)  | `< 576px`              | `@media (max-width: 575.98px)` |
+| 📱 Small (SM)        | `≥ 576px`              | `@media (min-width: 576px)`    |
+| 📲 Medium (MD)       | `≥ 768px`              | `@media (min-width: 768px)`    |
+| 💻 Large (LG)        | `≥ 992px`              | `@media (min-width: 992px)`    |
+| 🖥️ Extra Large (XL) | `≥ 1200px`             | `@media (min-width: 1200px)`   |
+| 🧠 XXL (Optional)    | `≥ 1400px` or `1600px` | `@media (min-width: 1400px)`   |
